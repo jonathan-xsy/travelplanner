@@ -1,2 +1,3 @@
 # travelplanner
-http://35.239.88.90
+http://tripplanner.tk
+
